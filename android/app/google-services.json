@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576515657444",
+    "project_id": "sozial-a2ed9",
+    "storage_bucket": "sozial-a2ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576515657444:android:b574a395d94dd675d5e6f1",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576515657444-ln11tl0k6jnod2kn30h4evvkafbo003b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.social_app",
+            "certificate_hash": "07764d58ab63be41623e8c7c12d1038b694efeaf"
+          }
+        },
+        {
+          "client_id": "576515657444-99m6jfhhc5bkuec1k3rtqrr50avcj84a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDamIGiIjUrZX9iVLyAaIx9vwl24s8fUfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576515657444-99m6jfhhc5bkuec1k3rtqrr50avcj84a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
