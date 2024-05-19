@@ -6,7 +6,7 @@ ThemeData darkTheme = ThemeData(
   scaffoldBackgroundColor:  Colors.grey[200],
   appBarTheme: AppBarTheme(
     titleSpacing: 20.0,
-    backwardsCompatibility: false,
+    // backwardsCompatibility: false,
     systemOverlayStyle: SystemUiOverlayStyle(
       statusBarColor:  Colors.grey[200],
       statusBarIconBrightness: Brightness.light,
@@ -51,7 +51,7 @@ ThemeData lightTheme = ThemeData(
   scaffoldBackgroundColor: Colors.white,
   appBarTheme: const AppBarTheme(
     titleSpacing: 20.0,
-    backwardsCompatibility: false,
+    // backwardsCompatibility: false,
     systemOverlayStyle: SystemUiOverlayStyle(
       statusBarColor: Colors.white,
       statusBarIconBrightness: Brightness.dark,
